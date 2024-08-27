@@ -1,0 +1,12 @@
+*{
+    background-color: #222;
+    color: #fff;
+
+}
+.name{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family:Arial, Helvetica, sans-serif ;
+    filter: drop-shadow(10px 2px 10px yellow);
+    color: yellow;
+}
